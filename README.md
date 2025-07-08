@@ -28,7 +28,6 @@ https://product-listing-interface.onrender.com/
      API_KEY=your_api_key_here
 
    In interface/.env:
-     ```env 
      VITE_API_URL=http://localhost:3000
 
 4. **Start the development server**
