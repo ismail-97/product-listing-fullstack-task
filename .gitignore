@@ -1,0 +1,8 @@
+api/node_modules/
+api/build/
+api/.env
+
+interface/node_modules/
+interface/build/
+interface/.env
+package-lock.json
