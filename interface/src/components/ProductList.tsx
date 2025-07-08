@@ -23,7 +23,10 @@ const ProductList = () => {
     fetchProducts();
   }, []);
 
-  
+  if (products.length === 0)
+    return (  
+      <div>Loading ... </div>
+    );
   return (
     <div>
       <div
