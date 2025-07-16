@@ -21,16 +21,7 @@ https://product-listing-interface.onrender.com/
    cd ../interface
    npm install
 
-3. **Set enviroment variables**
-
-   ```env 
-   # In api/.env:
-   API_KEY=your_api_key_here
-
-   # In interface/.env:
-   VITE_API_URL=http://localhost:3000
-
-4. **Start the development server**
+3. **Start the development server**
 
    ```bash
    # Start the backend
