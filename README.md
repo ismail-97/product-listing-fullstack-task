@@ -21,16 +21,7 @@ https://product-listing-interface.onrender.com/
    cd ../interface
    npm install
 
-3. **Set enviroment variables**
-
-   ```env 
-   # In api/.env:
-   API_KEY=your_api_key_here
-
-   # In interface/.env:
-   VITE_API_URL=http://localhost:3000
-
-4. **Start the development server**
+3. **Start the development server**
 
    ```bash
    # Start the backend
@@ -51,8 +42,8 @@ https://product-listing-interface.onrender.com/
 1. Built a RESTful API using Express to serve product data from a JSON file.
 2. Integrated a backend service that fetches live gold price data from an external API. (Note: The free tier allows only 50 requests/month.)
 3. Implemented flexible filtering based on query parameters.
-4- Used Swiper.js for the product carousel UI.
-5- Ensured responsive layout using Bootstrap and custom CSS.
+4. Used Swiper.js for the product carousel UI.
+5. Ensured responsive layout using Bootstrap and custom CSS.
 
 ## Notes
 - API may rate-limit requests due to free-tier API key usage.
