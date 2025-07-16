@@ -23,14 +23,13 @@
   top: 50%;
   /* transform: translateY(-50%); */
 }
-/* 
-.swiper-button-prev {
-  left: -10px; 
-}
 
-.swiper-button-next {
-  right: -30px;
-} */
+.center-spinner {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .swiper-scrollbar {
   height: 10px!important;

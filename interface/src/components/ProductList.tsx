@@ -25,7 +25,10 @@ const ProductList = () => {
 
   if (products.length === 0)
     return (  
-      <div>Loading ... </div>
+      <div className="d-flex justify-content-center align-items-center center-spinner ">
+        <div className="spinner-border" role="status">
+        </div>
+      </div>
     );
   return (
     <div>
