@@ -10,7 +10,7 @@ https://product-listing-interface.onrender.com/
 1. **Clone the repository:**
  
    ```bash
-   git clone git@github.com:ismail-97/frontend-page-redesign-challenge.git
+   git clone git@github.com:ismail-97/product-listing-fullstack-task.git
    
 2. **Navigate first to api and interface folders and then Install Dependencies:**
 
